@@ -24,8 +24,8 @@ let objInst1 = new Movie("Casino Royale","Eon Productions","PG­13");
 let objInst2 = new Movie("TITANIC","Baja Studios","");
 console.log(objInst1.getPG())
 
-
 -----------------------------------------
+
 2.https://github.com/rvsp/typescript-oops/blob/master/Practice/class-circle.md
 
 class circle {
@@ -52,6 +52,7 @@ console.log(obj1.getArea())
 console.log(obj1.getcircumference())
 
 -----------------------------------------
+
 3. Write a “person” class to hold all the details.
 
 class Person {
@@ -90,9 +91,6 @@ class Uberprice {
 }
 let Object = new Uberprice (100,2,50)
 console.log(Object.price())
-
-
-
 
 ------------------------------------------------
 
